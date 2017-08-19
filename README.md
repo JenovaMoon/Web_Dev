@@ -2,5 +2,4 @@
 Petits trucs pour le développement de site et autres...
 
 1 - Code de base d'une page HTML5.
-
-A venir...peut-être quelques fonctions CSS3, les plus utilisées...
+2 - Fonctions Css3 (en cours - Actuellement poster les lettres A à C)
