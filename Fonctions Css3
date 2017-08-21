@@ -15,37 +15,37 @@ azimuth :	Provenance horizontale du son. 	Son
 ## B
 
 background : Propriétés de l'arrière-plan.  Background
-background-attachment :	Mode de défilement de l'image d'arrière-plan. 	Background
-background-color :	Couleur de l'arrière-plan. 	Background, Couleur
-background-image :	Image d'arrière-plan. 	Background
+background-attachment :	Mode de défilement de l'image d'arrière-plan.  Background
+background-color : Couleur de l'arrière-plan.  Background, Couleur
+background-image : Image d'arrière-plan.  Background
 background-position-x :	Position horizontale de l'image d'arrière-plan.  Background
-background-position-y :	Position verticale de l'image d'arrière-plan. 	Background
-background-position :	Position de l'image d'arrière-plan. 	Background
-background-repeat :	Mode de répétition de l'image d'arrière-plan. 	Background
-behavior :	Association d'un script à un élément HTML (Explorer seulement). 	IE seulement
-border :	Caractéristiques des bordures. 	Border
+background-position-y :	Position verticale de l'image d'arrière-plan.  Background
+background-position :	Position de l'image d'arrière-plan.  Background
+background-repeat :	Mode de répétition de l'image d'arrière-plan.  Background
+behavior : Association d'un script à un élément HTML (Explorer seulement).  IE seulement
+border : Caractéristiques des bordures.  Border
 border-bottom :	Caractéristiques de la bordure du bas. 	Border
-border-bottom-color :	Couleur de la bordure du bas. 	Border, Couleur
-border-bottom-style :	Style de la bordure du bas. 	Border
-border-bottom-width :	Epaisseur de la bordure du bas. 	Border
-border-collapse :	Mode d'encadrement des cellules adjacentes. 	Table
-border-color :	Couleur des bordures. 	Border, Couleur
-border-left : Caractéristiques de la bordure de gauche. 	Border
+border-bottom-color :	Couleur de la bordure du bas.  Border, Couleur
+border-bottom-style :	Style de la bordure du bas. Border
+border-bottom-width :	Epaisseur de la bordure du bas. Border
+border-collapse :	Mode d'encadrement des cellules adjacentes.  Table
+border-color : Couleur des bordures.  Border, Couleur
+border-left : Caractéristiques de la bordure de gauche.  Border
 border-left-color :	Couleur de la bordure de gauche. 	Border, Couleur
 border-left-style :	Style de la bordure de gauche. 	Border
 border-left-width :	Epaisseur de la bordure de gauche. 	Border
-border-right :	Caractéristiques de la bordure de droite. 	Border
-border-right-color :	Couleur de la bordure de droite. 	Border, Couleur
-border-right-style :	Style de la bordure de droite. 	Border
-border-right-width :	Epaisseur de la bordure de droite. 	Border
-border-spacing :	Espacement entre deux traits de cellules adjacentes. 	Table
-border-style :	Style des bordures. 	Border
-border-top :	Caractéristiques de la bordure du haut. 	Border
-border-top-color :	Couleur de la bordure du haut. 	Border, Couleur
-border-top-style :	Style de la bordure du haut. 	Border
-border-top-width :	Epaisseur de la bordure du haut. 	Border
-border-width :	Epaisseur des bordures. 	Border
-bottom :	Position basse d'un élément. 	Position
+border-right : Caractéristiques de la bordure de droite. 	Border
+border-right-color : Couleur de la bordure de droite.  Border, Couleur
+border-right-style : Style de la bordure de droite.  Border
+border-right-width : Epaisseur de la bordure de droite.  Border
+border-spacing : Espacement entre deux traits de cellules adjacentes.  Table
+border-style : Style des bordures.  Border
+border-top : Caractéristiques de la bordure du haut.  Border
+border-top-color : Couleur de la bordure du haut.  Border, Couleur
+border-top-style : Style de la bordure du haut.  Border
+border-top-width : Epaisseur de la bordure du haut.  Border
+border-width : Epaisseur des bordures. 	Border
+bottom : Position basse d'un élément.  Position
 
 
 ## C 
