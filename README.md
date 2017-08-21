@@ -11,8 +11,9 @@ Bonne lecture, en esperant vous être utile autant qu'à moi-même ;D.
 
 ## Sommaire
 
-1 - Code de base d'une page HTML5.
-2 - Fonctions Css3.
+- Code de base d'une page HTML5.
+- Fonctions Css3.
 
 A venir.
-les commandes Git.
+Les commandes Git.
+Les sites utiles à l'apprentissage du Développement Web.
