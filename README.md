@@ -13,7 +13,7 @@ Bonne lecture, en esperant vous être utile autant qu'à moi-même ;D.
 
 - Code de base d'une page HTML5.
 - Fonctions Css3.
+- Les commandes Git (git-command).
 
 A venir.
-Les commandes Git.
 Les sites utiles à l'apprentissage du Développement Web.
