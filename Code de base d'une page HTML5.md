@@ -1,5 +1,6 @@
 <!-- Code de base d'une page HTML5 -->
 
+````
 <!DOCTYPE html>
 
 <html>
@@ -13,4 +14,4 @@
     </body>
 
 </html>
-
+````
