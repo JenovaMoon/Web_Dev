@@ -1,4 +1,4 @@
-<!-- Code de base d'une page HTML5 -->
+## <--Code de base d'une page HTML5 -->
 
 ````
 <!DOCTYPE html>
