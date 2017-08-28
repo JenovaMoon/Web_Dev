@@ -1,11 +1,12 @@
 # Les commandes Git (git-command)
-(Pour créer cette liste, je me suis aidée du site Git et du repo d'aquelito.)
+(Pour créer cette liste, je me suis aidée du site [Git](https://git-scm.com/book/fr/v1) et du repo d'[aquelito](https://gist.github.com/aquelito/8596717).)
 
 
 Bonjour à toutes et à tous,
-dans ce répertoire de commande Git je vais lister les commandes les plus utilisées, en tentant de les expliquer au mieux. 
-Pour avoir plus de commandes et des explications plus approfondies,  je vous conseille de consulter 
->> https://git-scm.com/book/fr/v1
+dans ce répertoire de commande Git je vais lister les commandes les plus utilisées, en tentant de les expliquer au mieux.
+
+Pour avoir plus de commandes et des explications plus approfondies,  je vous conseille de consulter [le site de git](https://git-scm.com/book/fr/v1)
+
 A la fin vous trouverez un petit plus pour vous simplifier la vie lorsque vous tapez vos commandes.
 
 Ps : Je vais donner les termes en français, le plus possible mais je mettrai l'équivalent en anglais entre (), "car on code en anglais"! :p
@@ -13,7 +14,8 @@ Ps : Je vais donner les termes en français, le plus possible mais je mettrai l'
 
 ## Commandes de Configuration
 
-Vous permet de rentrer le nom qui va vous indentifier dans Git (Identity Name). 
+Vous permet de rentrer le nom qui va vous indentifier dans Git (Identity Name).
+
 /--Attention!--/ C'est le nom qui sera afficher dans vos commit. Evitez donc les pseudo discutable xD.
 
 $ git config --global user.name "votre nom"
@@ -48,6 +50,7 @@ Vous affiche le status des fichiers (status). Cela vous indique ce qui se trouve
 $ git status
 
 Vous affiche les branches (branch) qui se trouve dans votre dépot (repository).
+
 Une `*` vous indique la branche actuelle où vous vous trouvez.
 
 $ git branch
@@ -64,6 +67,7 @@ $ git checkout nom_de_ma_branch
 
 
 Pour le premier commit, on utilise "initial commit" (commite initial ou commite du début) pour bien voir que c'est le premier effectuer.
+
 Cela le rend plus simple à reconnaitre lorsque l'on effectue un "git log".
 
 $ git add .$ git commit - m "initial commit"
@@ -105,6 +109,7 @@ $ git rmg --cached nom_du_fichier
 ## Les différences
 
 Vous affiche la différence entre le contenu du dernier commit et celui du répertoire de travail.
+
 Cela correspond à ce qui serait commité par git commit -a.
 
 $ git diff HEAD
@@ -158,7 +163,8 @@ Pour indiquer à quel commit on souhaite revenir, il existe plusieurs notations 
 * d6d98923868578a7f38dea79833b56d0326fcba1 : indique un numéro de commit précis ;
 
 ## Pour annuler un commit de Git (hard)
-Si vous voulez annuler votre dernier commit et les changements effectués dans les fichiers, il faut faire un reset hard. 
+Si vous voulez annuler votre dernier commit et les changements effectués dans les fichiers, il faut faire un reset hard.
+
 /--Attention!--/ Cela annulera sans confirmation tout votre travail !
 
 Pour annuler les commits et perdre tous les changements
@@ -175,6 +181,7 @@ $ git checkout nom_du_fichier
 
 
 Pour annuler/supprimer un fichier avant un commit
+
 Exemple : Vous ajoutez un fichier à Git avec `git add` et vous etes sur le point de le « commiter ».
 MAIS, vous vous rendez compte que ce fichier est une mauvaise idée et vous voulez annuler votre `git add`.
 
@@ -186,6 +193,7 @@ $ git reset HEAD -- nom_du_fichier_a_supprimer
 ## Alias git
 
 Les alias vous permettent de créer des raccourcis pour les commandes que vous voulez.
+
 Exemple : Lorsque je désire consulter le status de mon fichier j'utilise le commande "git status". 
 Avec la commande 
 
@@ -198,6 +206,6 @@ $ git s
 
 ## Aller plus haauuuut....euh plus loin, pardon ^^.
 
-Le site de Git >> https://git-scm.com/book/fr/v1 qui pourra répondre à vos questions sur son utilisation.
-Je vous link aussi un cours bien expliqué et assez rapide à réaliser.
->> https://www.youtube.com/playlist?list=PLlxQJeQRaKDRBd_FazeI7gLq5wyrt7f7J
+Le site de [Git](https://git-scm.com/book/fr/v1) qui pourra répondre à vos questions sur son utilisation.
+
+Je vous link aussi un [cours](https://www.youtube.com/playlist?list=PLlxQJeQRaKDRBd_FazeI7gLq5wyrt7f7J) bien expliqué et assez rapide à réaliser.
