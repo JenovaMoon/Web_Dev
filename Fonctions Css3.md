@@ -132,137 +132,136 @@
 ## M
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-margin :  Marges extérieures de l'élément. 	Position
-margin-top : Marge extérieure du haut de l'élément.  Position
-margin-right : Marge extérieure de droite de l'élément. Position
-margin-left :	Marge extérieure de gauche de l'élément. Position
-margin-bottom :	Marge extérieure du bas de l'élément.  Position
-marker-offset :	Position de la puce ou du numéro dans une liste. 	Liste
-marks :	Traits de coupe et repères d'alignement.  Impression
-max-height : Hauteur maxi de l'élément.  Position
-min-height : Hauteur mini de l'élément.  Position
-max-width :	Largeur maxi de l'élément.  Position
-min-width :	Largeur mini de l'élément.  Position
--moz-border-radius : Permet de définir un coin arrondi des bordures (pour Mozilla seulement).  Border
--moz-border-radius-bottomleft :	Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement).  Border
--moz-border-radius-bottomright : Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement).  Border
--moz-border-radius-topleft : Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement).  Border
--moz-border-radius-topright : Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement).  Border
--moz-opacity : Transparence/opacité de l'élément (pour Mozilla seulement).  Divers
+| ``margin`` |  Marges extérieures de l'élément |	Position |
+| ``margin-top`` | Marge extérieure du haut de l'élément | Position |
+| ``margin-right`` | Marge extérieure de droite de l'élément | Position |
+| ``margin-left`` | Marge extérieure de gauche de l'élément | Position |
+| ``margin-bottom`` |	Marge extérieure du bas de l'élément | Position |
+| ``marker-offset`` |	Position de la puce ou du numéro dans une liste |	Liste |
+| ``marks`` | Traits de coupe et repères d'alignement | Impression |
+| ``max-height`` | Hauteur maxi de l'élément | Position |
+| ``min-height`` | Hauteur mini de l'élément | Position |
+| ``max-width`` | Largeur maxi de l'élément | Position |
+| ``min-width`` |	Largeur mini de l'élément | Position |
+| ``-moz-border-radius`` | Permet de définir un coin arrondi des bordures (pour Mozilla seulement) | Border |
+| ``-moz-border-radius-bottomleft`` |	Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement) | Border |
+| ``-moz-border-radius-bottomright`` | Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement) | Border |
+| ``-moz-border-radius-topleft`` | Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement) | Border |
+| ``-moz-border-radius-topright`` | Permet de définir un coin arrondi pour une bordure (pour Mozilla seulement) | Border |
+| ``-moz-opacity`` | Transparence/opacité de l'élément (pour Mozilla seulement) | Divers |
 
 ## O
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-opacity :	Transparence/opacité de l'élément.  Divers
-orphans :	Nombre minimum de lignes d'un paragraphe à afficher en bas d'une page avant un saut de page.  Impression
-outline-color :	Couleur de l'encadrement de l'élément.  Couleur, Outline
-outline-style :	Couleur d'encadrement de l'élément.  Outline
-outline-width :	Epaisseur de l'encadrement de l'élément.  Outline
-outline :	Encadrement de l'élément.  Outline
-overflow-x : Présence/absence de l'ascenseur droit (Explorer seulement).  IE seulement, Position
-overflow-y : Présence/absence de l'ascenseur bas (Explorer seulement).  IE seulement, Position
-overflow : Présence/absence des ascenseurs.  Position
+| ``opacity`` |	Transparence/opacité de l'élément | Divers |
+| ``orphans`` |	Nombre minimum de lignes d'un paragraphe à afficher en bas d'une page avant un saut de page | Impression |
+| ``outline-color`` |	Couleur de l'encadrement de l'élément | Couleur, Outline |
+| ``outline-style`` |	Couleur d'encadrement de l'élément | Outline |
+| ``outline-width`` |	Epaisseur de l'encadrement de l'élément | Outline |
+| ``outline`` |	Encadrement de l'élément | Outline |
+| ``overflow-x`` | Présence/absence de l'ascenseur droit (Explorer seulement) | IE seulement, Position |
+| ``overflow-y`` | Présence/absence de l'ascenseur bas (Explorer seulement) | IE seulement, Position |
+| ``overflow`` | Présence/absence des ascenseurs | Position |
 
 ## P
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-padding :	Marges intérieures de l'élément.  Position
-padding-top :	Marge intérieure haute de l'élément.  Position
-padding-left :	Marge intérieure gauche de l'élément.  Position
-padding-right :	Marge intérieure droite de l'élément.  Position
-padding-bottom :	Marge intérieure basse de l'élément.  Position
-page-break-before :	Pour forcer un saut de page avant l' élément.  Impression
-page-break-after : Pour forcer un saut de page après l' élément.  Impression
-page-break-inside :	Pour gérer les sauts de page à l'intérieur de l' élément.  Impression
-page : Type de page imprimée.  Impression
-pause :	Silence avant et après la lecture de l'élément.  Son
-pause-before : Silence avant la lecture de l'élément.  Son
-pause-after :	Silence après la lecture de l'élément.  Son
-pitch :	Timbre de la voix.  Son
-pitch-range :	Variation de timbre de la voix.  Son
-play-during :	Son à restituer en fond.  Son
-position : Positionnement de l'élément.  Position
+| ``padding`` |	Marges intérieures de l'élément | Position |
+| ``padding-top`` |	Marge intérieure haute de l'élément | Position |
+| ``padding-left`` |	Marge intérieure gauche de l'élément | Position |
+| ``padding-right`` |	Marge intérieure droite de l'élément | Position |
+| ``padding-bottom`` |	Marge intérieure basse de l'élément | Position |
+| ``page-break-before`` |	Pour forcer un saut de page avant l' élément | Impression |
+| ``page-break-after`` | Pour forcer un saut de page après l' élément | Impression |
+| ``page-break-inside`` | Pour gérer les sauts de page à l'intérieur de l' élément | Impression |
+| ``page`` | Type de page imprimée | Impression |
+| ``pause`` |	Silence avant et après la lecture de l'élément | Son |
+| ``pause-before`` | Silence avant la lecture de l'élément | Son |
+| ``pause-after`` |	Silence après la lecture de l'élément | Son |
+| ``pitch`` |	Timbre de la voix | Son |
+| ``pitch-range`` |	Variation de timbre de la voix | Son |
+| ``play-during`` |	Son à restituer en fond | Son |
+| ``position`` | Positionnement de l'élément | Position |
 
 ## Q
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-quotes : Caractères utilisés pour les guillemets.  Génération de contenu
+| ``quotes`` | Caractères utilisés pour les guillemets | Génération de contenu |
 
 ## R
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-richness :  ortée de la voix.  Son
-right :	Position droite de l'élément.  Position
-ruby-align : Détermine l'alignement du contenu dans un élément ruby.  Ruby
-ruby-overhang : Détermine les caractéristiques de retrait du texte du contenu dans un élément ruby.  Ruby
-ruby-position :	Détermine si le texte ruby imbriqué (élément rt) s'affiche sur la même ligne 
-                ou au-dessus de son texte de base ruby connexe (élément rb).  Ruby
+| ``richness`` | ortée de la voix | Son |
+| ``right`` |	Position droite de l'élément | Position |
+| ``ruby-align`` | Détermine l'alignement du contenu dans un élément ruby | Ruby |
+| ``ruby-overhang`` | Détermine les caractéristiques de retrait du texte du contenu dans un élément ruby | Ruby |
+| ``ruby-position`` |	Détermine si le texte ruby imbriqué (élément rt) s'affiche sur la même ligne ou au-dessus de son texte de base ruby connexe (élément rb) | Ruby |
                 
 ## S
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-scrollbar-3dlight-color :	Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-arrow-color :	Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-base-color : Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-darkShadow-color :	Aspect de l'ascenseur (Explorer seulement).  Divers, IE seulement
-scrollbar-face-color :	Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-highlight-color :	Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-shadow-color : Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-scrollbar-track-color :	Aspect de l'ascenseur (Explorer seulement).  Couleur, Divers, IE seulement
-size : Définit la taille et/ou l'orientation d'une zone de page.  Impression
-speak :	Mode de restitution des textes.  Son
-speak-header : Mode de restitution des titres de tableaux.  Son, Table
-speak-numeral :	Mode de restitution des nombres.  Son
-speak-punctuation :	Mode de restitution de la ponctuation.  Son
-speech-rate :	Débit de paroles en mots par minutes.  Son
-stress : Inflexion de la voix (calme, précipitée...).  Son
+| ``scrollbar-3dlight-color`` |	Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-arrow-color`` |	Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-base-color`` | Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-darkShadow-color`` | Aspect de l'ascenseur (Explorer seulement) | Divers, IE seulement |
+| ``scrollbar-face-color`` | Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-highlight-color`` |	Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-shadow-color`` | Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``scrollbar-track-color`` |	Aspect de l'ascenseur (Explorer seulement) | Couleur, Divers, IE seulement |
+| ``size`` | Définit la taille et/ou l'orientation d'une zone de page | Impression |
+| ``speak`` |	Mode de restitution des textes | Son |
+| ``speak-header`` | Mode de restitution des titres de tableaux | Son, Table |
+| ``speak-numeral`` |	Mode de restitution des nombres | Son |
+| ``speak-punctuation`` |	Mode de restitution de la ponctuation | Son |
+| ``speech-rate`` |	Débit de paroles en mots par minutes | Son |
+| ``stress`` | Inflexion de la voix (calme, précipitée...) | Son |
 
 ## T
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-table-layout : Mode de calcul des largeurs de colonnes et de tableaux. 	Table
-text-align : Détermine l'alignement horizontal du texte à l'intérieur d'un élément.  Position, Texte
-text-align-last :	Détermine l'alignement horizontal de la dernière ligne de texte dans un cadre de l'élément (Explorer seulement).  IE seulement, Texte
-text-autospace : Détermine l'espacement entre les caractères (langues asiatiques - Explorer seulement).  IE seulement, Texte
-text-decoration : Soulignement ou rayure du texte. 	Texte
-text-indent :	Indentation du texte.  Texte
-text-justify : Justification du texte (Explorer seulement).  IE seulement, Texte
-text-kashida-space : Concerne le texte arabe inclus dans un élément de bloc (Explorer seulement).  IE seulement, Texte
-text-overflow :	Détermine s'il faut afficher le contenu débordant d'un cadre plein sous forme de points de suspension(...) à la fin de la ligne.  Texte
-text-shadow :	Définit les effets d'ombre à appliquer au texte de l'élément.  Texte
-text-transform : Contrôle la capitalisation (majuscules/minuscules) du texte d'un élément.  Texte
-text-underline-position :	Position du texte par rapport au soulgnement (langues asiatiques - Explorer seulement).  IE seulement, Texte
-top :	Position supérieure de l'élément.  Position
+| ``table-layout`` | Mode de calcul des largeurs de colonnes et de tableaux |	Table |
+| ``text-align`` | Détermine l'alignement horizontal du texte à l'intérieur d'un élément | Position, Texte |
+| ``text-align-last`` |	Détermine l'alignement horizontal de la dernière ligne de texte dans un cadre de l'élément (Explorer seulement) | IE seulement, Texte |
+| ``text-autospace`` | Détermine l'espacement entre les caractères (langues asiatiques - Explorer seulement) | IE seulement, Texte
+| ``text-decoration`` | Soulignement ou rayure du texte | Texte |
+| ``text-indent`` |	Indentation du texte | Texte |
+| ``text-justify`` | Justification du texte (Explorer seulement) | IE seulement, Texte |
+| ``text-kashida-space`` | Concerne le texte arabe inclus dans un élément de bloc (Explorer seulement) | IE seulement, Texte |
+| ``text-overflow`` |	Détermine s'il faut afficher le contenu débordant d'un cadre plein sous forme de points de suspension(...) à la fin de la ligne | Texte |
+| ``text-shadow`` |	Définit les effets d'ombre à appliquer au texte de l'élément | Texte |
+| ``text-transform `` | Contrôle la capitalisation (majuscules/minuscules) du texte d'un élément | Texte |
+| ``text-underline-position`` |	Position du texte par rapport au soulgnement (langues asiatiques-Explorer seulement) | IE seulement, Texte |
+| ``top`` |	Position supérieure de l'élément | Position |
 
 ## U
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-| unicode-bidi | Détermine l'incorporation du texte bidirectionnel avec la propriété de style direction(langues asiatiques | Explorer seulement).  IE seulement, Texte
+| unicode-bidi | Détermine l'incorporation du texte bidirectionnel avec la propriété de style direction(langues asiatiques) | IE seulement, Texte |
 
 ## V
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-vertical-align : Alignement vertical de l'élément.  Position, Texte
-visibility : Détermine si l'élément est affiché sur la page.  Divers
-voice-family : Type de voix (homme, femme, enfant...).  Son
-volume : Volume de la voix.  Son
+| ``vertical-align`` | Alignement vertical de l'élément | Position, Texte |
+| ``visibility`` | Détermine si l'élément est affiché sur la page | Divers |
+| ``voice-family`` | Type de voix (homme, femme, enfant...) | Son |
+| ``volume`` | Volume de la voix | Son |
 
 ## W
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-white-space :	Gestion des espaces multiples et des retours chariot.  Divers
-widows : Définit le nombre minimum de lignes d'un paragraphe à afficher en haut d'une page après un saut de page (Opera seulement).  Impression
-width :	Largeur de l'élément. 	 
-word-break : Détermine le style de césure de mot (langues asiatiques - Explorer seulement).  IE seulement, Texte
-word-spacing : Espacement des mots.  Texte
-word-wrap :	Détermine le style de renvoi à la ligne pour les éléments de niveau bloc, les éléments incorporés de taille spécifique ou les éléments positionnés (Explorer seulement). 	IE seulement, Texte
-writing-mode : Progression du contenu texte dans l'élément (langues asiatiques - Explorer seulement). 	IE seulement, Texte
+| ``white-space`` |	Gestion des espaces multiples et des retours chariot | Divers |
+| ``widows`` | Définit le nombre minimum de lignes d'un paragraphe à afficher en haut d'une page après un saut de page(Opera seulement) | Impression |
+| ``width`` |	Largeur de l'élément |	 
+| ``word-break`` | Détermine le style de césure de mot (langues asiatiques - Explorer seulement) | IE seulement, Texte |
+| ``word-spacing`` | Espacement des mots | Texte |
+| ``word-wrap`` |	Détermine le style de renvoi à la ligne pour les éléments de niveau bloc, les éléments incorporés de taille spécifique ou les éléments positionnés (Explorer seulement) |	IE seulement, Texte |
+| ``writing-mode`` | Progression du contenu texte dans l'élément (langues asiatiques - Explorer seulement) | IE seulement, Texte |
 
 ## Z
 | Fonctions | Description | Famille |
 | :---         |     :---:      |     :---:      |
-z-index :	Définit l'ordre de superposition des éléments (dessus/dessous).  Position
-zoom : Agrandissement du contenu affiché.  IE seulement
+| ``z-index`` |	Définit l'ordre de superposition des éléments (dessus/dessous) | Position |
+| ``zoom`` | Agrandissement du contenu affiché | IE seulement |
 
 
 ## Aller plus haauuuut....euh plus loin, pardon ^^.
@@ -280,7 +279,6 @@ je vous propose les sites qui suivent :
     
     Ps : Pour trouver les cours en français, rdv dans le menu déroulant de droite et cliquez sur "Most Popular".
     
-  - [freeCodeCamp](https://www.freecodecamp.org/) : Site entièrement en anglais. Personnellement je n'ai pas encore fait de cours sur ce site 
-    mais il m'a été recommandé par un ami qui fait parti du métier, c'est pourquoi je renseigne également ce lien.
+  - [freeCodeCamp](https://www.freecodecamp.org/) : Site entièrement en anglais. Personnellement je n'ai pas encore fait de cours sur ce site mais il m'a été recommandé par un ami qui fait parti du métier, c'est pourquoi je renseigne également ce lien.
     
   
