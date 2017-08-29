@@ -13,5 +13,5 @@ Bonne lecture, en esperant vous être utile autant qu'à moi-même ;D.
 
 - [x] Code de base d'une page HTML5. 
 - [x] Fonctions Css3. 
-- [x] Les commandes Git (git-command). (Mise en forme syntaxe, en cours)
+- [x] Les commandes Git (git-command). 
 - [ ] Les sites utiles à l'apprentissage du Développement Web.
