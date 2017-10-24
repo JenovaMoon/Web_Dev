@@ -3,7 +3,7 @@
 
 <head>
     <meta charset="utf-8" />
-    <title>CV Clélia Dauptain</title>
+    <title>CV Prénom Nom</title>
 </head>
 
 <body style="background:url('../cv_stage/fond_cv.jpg') no-repeat;">
