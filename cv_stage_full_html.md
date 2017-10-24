@@ -13,15 +13,15 @@
         <p>Née le 01 Juin 1900 <br/>
            Permis B</p> 
         <p>1 rue de la poupée qui tousse <br/>
-            Bat.HelloKity, App.1, <br/>
-            11111 Wali.
+           Bat.HelloKity, App.1, <br/>
+           11111 Wali.
         </p>
-        <p>Tel.: 06.51.85.23.18 <br/>
-           Email : <a href=mail>monemail@email.com</a>
+        <p>06.51.85.23.18 <br/>
+        <a href=mail>monemail@email.com</a>
         </p>
     </header>
     <h1>Candidature spontanée à un stage d'immersion</h1>
-    <session class="CV">
+    <section>
         <div class="experience">
             <h2>Mon expérience</h2>
             <ul>
@@ -77,10 +77,10 @@
                 <li>Nature</li>
             </ul>
         </div>
-    </session> <!--Fin session cv-->
+    </section> <!--Fin section cv-->
 
     <footer>
-        <h3 class="devise">No Pain, No Gain !</h3>
+        <h3>No Pain, No Gain !</h3>
     </footer>
 
 </body>
