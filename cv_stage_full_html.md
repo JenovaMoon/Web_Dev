@@ -25,9 +25,9 @@
         <div class="experience">
             <h2>Mon expérience</h2>
             <ul>
-                <li><strong>01/2014 - 12/2105 : BRGM</strong> : Agent de courrier</li>
-                <li><strong>08/2010 - 05/2011 : DANONE France</strong> : Agent de courrier/Hôtesse d'accueil</a></li>
-                <li><strong>02/2002 - 12/2017 : ARCHIVECO</strong> : Agent d'administratif</li>
+                <li><strong>01/2014 - 12/2105 : *********</strong> : Agent de courrier</li>
+                <li><strong>08/2010 - 05/2011 : *********</strong> : Agent de courrier/Hôtesse d'accueil</a></li>
+                <li><strong>02/2002 - 12/2017 : *********</strong> : Agent d'administratif</li>
                 <li><strong>01/2002 - 12/2017 : Interim</strong> : Agent d'administratif/Hôtesse d'accueil/Manutention</li>
                 
             </ul>
