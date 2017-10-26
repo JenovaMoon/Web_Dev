@@ -25,23 +25,21 @@
         <div class="experience">
             <h2>Mon expérience</h2>
             <ul>
-                <li><strong>01/2014 - 12/2105 : *********</strong> : Agent de courrier</li>
-                <li><strong>08/2010 - 05/2011 : *********</strong> : Agent de courrier/Hôtesse d'accueil</a></li>
-                <li><strong>02/2002 - 12/2017 : *********</strong> : Agent d'administratif</li>
-                <li><strong>01/2002 - 12/2017 : Interim</strong> : Agent d'administratif/Hôtesse d'accueil/Manutention</li>
-                
+                <li><strong>01/2014 - 12/2105 : ********</strong> : Agent de courrier</li>
+                <li><strong>08/2010 - 05/2011 : ********</strong> : Agent de courrier/Hôtesse d'accueil</a></li>
+                <li><strong>02/2002 - 12/2017 : ********</strong> : Agent d'administratif</li>
+                <li><strong>01/2002 - 12/2017 : Interim</strong> : Agent d'administratif/Hôtesse d'accueil/Manutention</li>                
             </ul>
         </div>
 
         <div class="formation">
             <h2>Ma Formation</h2>
             <ul>
-                <li><strong>2001 : Baccalauréat Générale Session Littéraire (Obtenu)</strong> - Lycée ******</li>
-                <li><strong>2003 : DEUG LLCE Italien (Obtenu)</strong> - **************</a></li>
-                <li><strong>2004 : LICENCE LLCE Italien (Niveau)</strong> - **************</li>
+                <li><strong>2001 : Baccalauréat Générale Session Littéraire (Obtenu)</strong> - Lycée Mozart</li>
+                <li><strong>2003 : DEUG LLCE Italien (Obtenu)</strong> - Sorbonne Nouvelle Paris III</a></li>
+                <li><strong>2004 : LICENCE LLCE Italien (Niveau)</strong> - Sorbonne Nouvelle Paris III</li>
                 <li><strong>2012 : Formation en langue Anglaise TOEIC (Obtenu : 830)</strong> - Formalangue Paris</li>
                 <li><strong>2016 à ce jour : Formation Développeur Web Junior</strong> - OpenClassrooms</li>
-                
             </ul>
         </div>
 
