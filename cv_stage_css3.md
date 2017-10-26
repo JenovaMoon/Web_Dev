@@ -87,6 +87,8 @@
 </body>
 </html>
 
+
+````
 /* Définition des polices personnalisées */
 
 @font-face {
@@ -101,7 +103,6 @@
 
 }
 
-````
 /* Paramètre de la page */
 
 body {
